@@ -1,4 +1,4 @@
-package com.aledev.springJpa.entities.pk;
+ package com.aledev.springJpa.entities.pk;
 
 import java.io.Serializable;
 import java.util.Objects;
